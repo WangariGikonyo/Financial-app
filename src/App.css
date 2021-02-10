@@ -15,6 +15,20 @@
 #container_home .second-col{
   text-align: center;
 }
+.navbar-floating{
+  position: absolute;
+  top:0;
+  left:0;
+  width:100%;
+  padding: 20px 0 20px 0;
+ 
+}
+#btn-nav{
+  background-color:#1919B3;
+  color:#fff;
+  border-radius:20px;
+  margin-right: 20px;
+}
 
 
 
@@ -26,7 +40,7 @@
     padding-top: unset;
   }
   #heading_top{
-    margin-top: 2vh;
+    margin-top: 10vh;
   }
   #container_home .second-col{
     text-align: unset;
